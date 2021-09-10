@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... cyber security and ethical hacking
 - 🌱 I’m currently learning ... anything about IT I can and taking UPenn Cyber security boot camp
 - 💞️ I’m looking to collaborate on ...IT security and ethical hacking
-- 📫 How to reach me ... Justin.matthews@gmail.com
+- 📫 How to reach me ... Justindalematthews@gmail.com
 
 <!---
 JustinMatthews1/JustinMatthews1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
