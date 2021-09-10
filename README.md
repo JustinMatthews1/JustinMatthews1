@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinMatthews1
-- 👀 I’m interested in ... cyber security and ethical hacking
+- 👀 I’m interested in ... cybersecurity and ethical hacking
 - 🌱 I’m currently learning ... anything about IT I can and taking UPenn Cyber security boot camp
 - 💞️ I’m looking to collaborate on ...IT security and ethical hacking
 - 📫 How to reach me ... Justindalematthews@gmail.com
